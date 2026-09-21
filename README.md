@@ -1,4 +1,3 @@
-## 🧰 Tecnologías que uso
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -14,7 +13,6 @@
 
 ---
 
-## 🐍 Serpiente de contribuciones
 
 <div align="center">
 
@@ -23,7 +21,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Schnoxz/Schnoxz@output/github-snake.svg"/>
   <img src="https://cdn.jsdelivr.net/gh/Schnoxz/Schnoxz@output/github-snake-dark.svg" alt="Serpiente de contribuciones"/>
 </picture>
-
-*¡Mira cómo avanza por mi historial de contribuciones!*
 
 </div>
