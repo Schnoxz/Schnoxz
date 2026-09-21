@@ -16,8 +16,8 @@ Soy **estudiante de Desarrollo de Aplicaciones Web (DAW)** en el IES Kursaal (C�
 ## 📊 Mi actividad
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Schnoxz&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schnoxz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=Schnoxz" height="160" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Schnoxz&theme=tokyonight" height="160" alt="Lenguajes por repositorio"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Schnoxz&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak"/>
 </div>
 
@@ -91,7 +91,11 @@ Soy **estudiante de Desarrollo de Aplicaciones Web (DAW)** en el IES Kursaal (C�
 
 <div align="center">
 
-![Contribución de serpiente](https://raw.githubusercontent.com/Schnoxz/Schnoxz/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Schnoxz/Schnoxz@output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Schnoxz/Schnoxz@output/github-snake.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/Schnoxz/Schnoxz@output/github-snake-dark.svg" alt="Serpiente de contribuciones"/>
+</picture>
 
 *¡Mira cómo avanza por mi historial de contribuciones!*
 
