@@ -1,29 +1,17 @@
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=800&color=1B8A6B&center=true&vCenter=true&width=560&height=70&lines=Hola%2C+soy+Schnoz+%F0%9F%91%8B;Desarrollador+de+Aplicaciones+Web;Aprendiendo+every+day+%F0%9F%9A%80">
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=800&color=3DB4A8&center=true&vCenter=true&width=560&height=70&lines=Hola%2C+soy+Schnoz+%F0%9F%91%8B;Desarrollador+de+Aplicaciones+Web;Aprendiendo+every+day+%F0%9F%9A%80">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=800&color=1B8A6B&center=true&vCenter=true&width=560&height=70&lines=Hola%2C+soy+Schnoz+%F0%9F%91%8B;Desarrollador+de+Aplicaciones+Web;Aprendiendo+every+day+%F0%9F%9A%80" alt="Typing SVG">
-</picture>
+<div align="center">
 
-Soy **estudiante de Desarrollo de Aplicaciones Web (DAW)** en el IES Kursaal (Cádiz) 🌊. Me apasiona crear cosas desde cero: webs, apps y cualquier proyecto que me haga aprender algo nuevo.
+# ¡Hola! 👋 Soy **Schnoz**
+
+### 💻 Estudiante de Desarrollo de Aplicaciones Web · IES Kursaal (Cádiz) 🌊
+
+</div>
+
+Me apasiona crear cosas desde cero: webs, apps y cualquier proyecto que me haga aprender algo nuevo.
 
 🚀 Lo que hago:
 - 💻 Desarrollo **front-end** y **back-end** (HTML, CSS, JavaScript, PHP, MySQL, Git)
 - 📚 Estudio 2º curso de DAW y subo todo mi material a [**2-DAW**](https://github.com/Schnoxz/2-DAW)
 - 🔭 Aquí vas a encontrar mis proyectos y apuntes de clase
-
----
-
-## 📊 Mi actividad
-
-<div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Schnoxz" height="160" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Schnoxz&theme=tokyonight" height="160" alt="Lenguajes por repositorio"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Schnoxz&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Schnoxz&label=visitas+al+perfil&color=1B8A6B&style=for-the-badge" alt="Profile views"/>
-</div>
 
 ---
 
@@ -49,41 +37,20 @@ Soy **estudiante de Desarrollo de Aplicaciones Web (DAW)** en el IES Kursaal (C�
 
 ---
 
-## 📦 Repos destacados
+## 🏎️ Meme corner: Fernando Alonso
 
-<details open>
-  <summary><b>🎓 Material de clase</b></summary>
-  <br>
+<div align="center">
 
-  | Repositorio | Qué contiene |
-  |-------------|--------------|
-  | [📘 2-DAW](https://github.com/Schnoxz/2-DAW) | Material de 2º de DAW: temario, tareas y README organizado por unidades |
-  | [📗 1-DAW](https://github.com/Schnoxz/1-DAW) | Material de 1º de DAW |
-  | [📙 LMSGI-25-26](https://github.com/Schnoxz/LMSGI-25-26) | Lenguaje de Marcas y Sistemas de Gestión de Información |
+El día que gané, acabé el proyecto... y también ganó *El Nano* 🏆
 
-</details>
+[![Fernando Alonso — el meme](https://img.youtube.com/vi/8qY6A0l4emw/hqdefault.jpg)](https://www.youtube.com/watch?v=8qY6A0l4emw)
 
-<details open>
-  <summary><b>💼 Proyectos</b></summary>
-  <br>
+¿Conoces [**El Plan**](https://www.youtube.com/watch?v=8qY6A0l4emw)? Pues sí, emojis también se pueden enlazar 👇
+[🏎️](https://www.youtube.com/watch?v=8qY6A0l4emw) · [🏆](https://www.youtube.com/watch?v=8qY6A0l4emw) · [🍊](https://www.youtube.com/watch?v=8qY6A0l4emw) · [🎙️](https://www.youtube.com/watch?v=8qY6A0l4emw) · [🏁](https://www.youtube.com/watch?v=8qY6A0l4emw)
 
-  | Repositorio | Qué hace |
-  |-------------|----------|
-  | [🏋️ FitNetDB](https://github.com/Schnoxz/FitNetDB) | Proyecto FitNet — gestión de datos para la red de fitness |
-  | [🐾 PokemonAnilGen](https://github.com/Schnoxz/PokemonAnilGen) | Modificador de partidas guardadas de Pokémon |
-  | [🛢️ SQL-training](https://github.com/Schnoxz/SQL-training) | Aprende SQL y bases de datos relacionales desde cero |
+*"Esta es la guerra. Y si se trata de guerra, hay que ganar."* 🎖️
 
-</details>
-
-<details>
-  <summary><b>⚡ Dato curioso</b></summary>
-  <br>
-
-  - Empecé mi aventura con GitHub en 2024 🎉
-  - Me gusta dejar el código limpio y documentado ✨
-  - El teclado es mi mejor amigo 🖮
-
-</details>
+</div>
 
 ---
 
@@ -103,13 +70,15 @@ Soy **estudiante de Desarrollo de Aplicaciones Web (DAW)** en el IES Kursaal (C�
 
 ---
 
-## 📬 Contacto
+<details>
+  <summary><b>⚡ Dato curioso</b></summary>
+  <br>
 
-<div align="center">
-  <a href="https://github.com/Schnoxz"><img src="https://img.shields.io/badge/GitHub-Schnoxz-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-perfil-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/Email-contacto-EA4335?style=for-the-badge&logo=gmail"/></a>
-</div>
+  - Empecé mi aventura con GitHub en 2024 🎉
+  - Me gusta dejar el código limpio y documentado ✨
+  - El teclado es mi mejor amigo 🖮
+
+</details>
 
 <p align="center">
   <sub>Hecho con ❤️ en Cádiz 🌊</sub>
